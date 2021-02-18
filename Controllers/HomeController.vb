@@ -2,6 +2,8 @@
     Inherits System.Web.Mvc.Controller
 
     'test comment.
+    'test comment -JD
+
     Function Index() As ActionResult
         Return View()
     End Function
